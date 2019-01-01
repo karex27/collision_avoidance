@@ -5,8 +5,6 @@ import camera
 import time
 import sys
 
-
-
 # intial setting
 root = Tkinter.Tk()
 TYPE = "PI"
